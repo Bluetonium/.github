@@ -15,8 +15,5 @@
 * [Bluetonium Canister](https://github.com/Bluetonium/Bluetonium-Canister)
 * [Shop Card Reader](https://github.com/Bluetonium/Shop-Card-Reader)
 
-## Resources
-* comming soon
-
 ## Credits
 * Readme created by Henry Kirk
